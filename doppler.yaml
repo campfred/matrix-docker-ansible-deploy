@@ -1,0 +1,9 @@
+# https://docs.doppler.com/docs/cli#assign-a-directory-to-a-specific-config
+setup:
+  - project: matrix-docker-ansible-deploy
+    # config: prd
+    # config: prd_bot
+    # config: prd_mas_migration_dryrun
+    # config: prd_mas_migration
+    config: prd_mas
+    # config: prd_generate-matrix-registration-token
